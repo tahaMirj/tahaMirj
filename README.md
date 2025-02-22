@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @tahaMirj
-- 👀 I’m interested in rock music
-- 🌱 I’m currently learning data anal ysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: xi / xing
-- ⚡ Fun fact: im a big loser
+- 👀 I’m interested in self improvement
 
 <!---
 tahaMirj/tahaMirj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
